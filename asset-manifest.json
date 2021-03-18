@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/BattistonisGolf/static/css/main.019c37af.chunk.css",
+    "main.js": "/BattistonisGolf/static/js/main.a475c79b.chunk.js",
+    "main.js.map": "/BattistonisGolf/static/js/main.a475c79b.chunk.js.map",
+    "runtime-main.js": "/BattistonisGolf/static/js/runtime-main.3f3d7791.js",
+    "runtime-main.js.map": "/BattistonisGolf/static/js/runtime-main.3f3d7791.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/BattistonisGolf/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ea73a3c9.chunk.js": "/BattistonisGolf/static/js/2.ea73a3c9.chunk.js",
+    "static/js/2.ea73a3c9.chunk.js.map": "/BattistonisGolf/static/js/2.ea73a3c9.chunk.js.map",
+    "static/js/3.52d4514e.chunk.js": "/BattistonisGolf/static/js/3.52d4514e.chunk.js",
+    "static/js/3.52d4514e.chunk.js.map": "/BattistonisGolf/static/js/3.52d4514e.chunk.js.map",
+    "index.html": "/BattistonisGolf/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/BattistonisGolf/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.019c37af.chunk.css.map": "/BattistonisGolf/static/css/main.019c37af.chunk.css.map",
+    "static/js/2.ea73a3c9.chunk.js.LICENSE.txt": "/BattistonisGolf/static/js/2.ea73a3c9.chunk.js.LICENSE.txt",
+    "static/media/bg.ef60e8a5.svg": "/BattistonisGolf/static/media/bg.ef60e8a5.svg",
+    "static/media/gary.56757346.jpg": "/BattistonisGolf/static/media/gary.56757346.jpg",
+    "static/media/golf.20c58cae.mp4": "/BattistonisGolf/static/media/golf.20c58cae.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f3d7791.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ea73a3c9.chunk.js",
+    "static/css/main.019c37af.chunk.css",
+    "static/js/main.a475c79b.chunk.js"
+  ]
+}
