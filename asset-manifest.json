@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BattistoniGolf/static/css/main.019c37af.chunk.css",
-    "main.js": "/BattistoniGolf/static/js/main.a475c79b.chunk.js",
-    "main.js.map": "/BattistoniGolf/static/js/main.a475c79b.chunk.js.map",
+    "main.js": "/BattistoniGolf/static/js/main.6526b231.chunk.js",
+    "main.js.map": "/BattistoniGolf/static/js/main.6526b231.chunk.js.map",
     "runtime-main.js": "/BattistoniGolf/static/js/runtime-main.b9b03025.js",
     "runtime-main.js.map": "/BattistoniGolf/static/js/runtime-main.b9b03025.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/BattistoniGolf/static/css/2.4c97ca4f.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.ea73a3c9.chunk.js",
     "static/css/main.019c37af.chunk.css",
-    "static/js/main.a475c79b.chunk.js"
+    "static/js/main.6526b231.chunk.js"
   ]
 }
